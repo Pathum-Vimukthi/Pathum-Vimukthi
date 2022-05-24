@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum-vimukthi&show_icons=true&locale=en&layout=compact" alt="pathum-vimukthi" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathum-vimukthi&show_icons=true&locale=en" alt="pathum-vimukthi" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathum-vimukthi&" alt="pathum-vimukthi" /></p>
 
