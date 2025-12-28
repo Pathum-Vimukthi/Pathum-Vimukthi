@@ -3,9 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum-vimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-vimukthi" /> </p>
 
-| ![Pathum's github stats](https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&theme=tokyonight) | ![Pathum GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pathum-Vimukthi&theme=tokyonight) |
+| GitHub Stats | GitHub Streak |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum-Vimukthi&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
 
 
 - 🔭 I’m currently working on **sDesk Web Application**
