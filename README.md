@@ -108,8 +108,6 @@ I'm passionate about software engineering because I enjoy solving problems throu
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
 **Thanks for visiting! Feel free to reach out if you'd like to collaborate on a project!** ✨
 
 </div>
