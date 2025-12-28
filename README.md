@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **sDesk Web Application**
 
--  👨‍🎓 I’m an Undergraduate at University of Ruhuna
+- 👨‍🎓 I’m an Undergraduate at **University of Ruhuna**
 
 - 🌱 I’m currently learning **Java, Spring boot, Nest.js, JavaScript, TypeScript, PostgreSQL, Git & GitHub, Cloud Platforms (AWS, AZURE)**
 
