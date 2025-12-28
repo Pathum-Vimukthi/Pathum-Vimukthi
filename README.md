@@ -3,14 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum-vimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-vimukthi" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&theme=tokyonight&v=1" />
-  <img src="https://streak-stats.demolab.com?user=Pathum-Vimukthi&theme=tokyonight&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum-Vimukthi&layout=compact&theme=tokyonight&v=1" />
-</p>
+| GitHub Stats | GitHub Streak |
+| --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&theme=tokyonight&v=1) | ![GitHub Streak](https://streak-stats.demolab.com?user=Pathum-Vimukthi&theme=tokyonight&v=1) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum-Vimukthi&layout=compact&theme=tokyonight&v=1) |  |
 
 
 - 🔭 I’m currently working on **sDesk Web Application**
