@@ -1,20 +1,32 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Pathum Karunasinghe</h1>
-<h3 align="center">I’m passionate about software engineering because I enjoy solving problems through programming and building software solutions.</h3>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum-vimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-vimukthi" /> </p>
+<h1>Hi 👋, I'm Pathum Karunasinghe</h1>
 
-- 🔭 I’m currently working on **sDesk Web Application**
-
-- 👨‍🎓 I’m an Undergraduate at **University of Ruhuna**
-
-- 🌱 I’m currently learning **Java, Spring boot, Nest.js, JavaScript, TypeScript, PostgreSQL, Git & GitHub, Cloud Platforms (AWS, AZURE)**
-
-- 📫 How to reach me **vimukthipathum138@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pathum-karunasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pathum-karunasinghe/" height="30" width="40" /></a>
+<p>
+I’m passionate about software engineering because I enjoy solving problems through programming and building software solutions.
 </p>
+
+- 🎓 Undergraduate at <b>University of Ruhuna</b>  
+- 🔭 Currently working on <b>sDesk Web Application</b>  
+- 🌱 Learning <b>Java, Spring Boot, NestJS, TypeScript, PostgreSQL, Git/GitHub, AWS, Azure</b>  
+- 📫 Reach me at <b>vimukthipathum138@gmail.com</b>
+
+<p>
+<a href="https://www.linkedin.com/in/pathum-karunasinghe/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
+</a>
+</p>
+
+    </td>
+    <td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="100%" />
+
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
