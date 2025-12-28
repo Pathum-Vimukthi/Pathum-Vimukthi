@@ -3,10 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pathum-vimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-vimukthi" /> </p>
 
-| GitHub Stats | GitHub Streak |
-| --- | --- |
-| ![Pathum Karunasinghe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&theme=tokyonight) | ![Pathum Karunasinghe GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pathum-Vimukthi&theme=tokyonight) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum-Vimukthi&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pathum-Vimukthi&show_icons=true&theme=tokyonight&v=1" />
+  <img src="https://streak-stats.demolab.com?user=Pathum-Vimukthi&theme=tokyonight&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathum-Vimukthi&layout=compact&theme=tokyonight&v=1" />
+</p>
 
 
 - 🔭 I’m currently working on **sDesk Web Application**
