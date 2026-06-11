@@ -18,7 +18,7 @@
 
 I'm passionate about software engineering because I enjoy solving problems through programming and building software solutions.
 
-- 🎓 Undergraduate at **University of Ruhuna**
+- 🎓 Graduate at **University of Ruhuna**
 - 🌱 Learning **Java, Spring Boot, Nest.js, TypeScript, PostgreSQL, AWS, Azure**
 - 📫 Reach me at **vimukthipathum138@gmail.com**
 
